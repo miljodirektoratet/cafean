@@ -1,0 +1,289 @@
+year	emission	hhld_component	value	unit
+2012	GHG	Households, totals	6.720073798513001	Mt
+2012	GHG	Transport	4.9864380573944	Mt
+2012	GHG	Heating/cooling	0.8424371843123	Mt
+2012	GHG	Other	0.8911985568063	Mt
+2012	CO2	Households, totals	5779.557582	kt
+2012	CO2	Transport	4929.799118	kt
+2012	CO2	Heating/cooling	472.4151633	kt
+2012	CO2	Other	377.3433007	kt
+2012	Biomass CO2	Households, totals	2585.0088388	kt
+2012	Biomass CO2	Transport	153.5160482	kt
+2012	Biomass CO2	Heating/cooling	2429.3841669	kt
+2012	Biomass CO2	Other	2.1086237	kt
+2012	N2O	Households, totals	293.0892856	t
+2012	N2O	Transport	134.2628284	t
+2012	N2O	Heating/cooling	46.9993087	t
+2012	N2O	Other	111.8271485	t
+2012	SF6_NF3	Households, totals	4992.6828415	t
+2012	SF6_NF3	Transport	0.0	t
+2012	SF6_NF3	Heating/cooling	0.0	t
+2012	SF6_NF3	Other	4992.6828415	t
+2012	CH4	Households, totals	22276.9790678	t
+2012	CH4	Transport	752.1174953	t
+2012	CH4	Heating/cooling	12770.2572931	t
+2012	CH4	Other	8754.6042794	t
+2012	HFC	Households, totals	234099.4590891	t
+2012	HFC	Transport	0.0	t
+2012	HFC	Heating/cooling	0.0	t
+2012	HFC	Other	234099.4590891	t
+2012	PFC	Households, totals	0.0	t
+2012	PFC	Transport	0.0	t
+2012	PFC	Heating/cooling	0.0	t
+2012	PFC	Other	0.0	t
+2013	GHG	Households, totals	6.5608480286537	Mt
+2013	GHG	Transport	4.937955056382801	Mt
+2013	GHG	Heating/cooling	0.720019121862	Mt
+2013	GHG	Other	0.9028738503089	Mt
+2013	CO2	Households, totals	5695.3962149	kt
+2013	CO2	Transport	4882.8105572	kt
+2013	CO2	Heating/cooling	437.368607	kt
+2013	CO2	Other	375.2170506	kt
+2013	Biomass CO2	Households, totals	2092.6078147	kt
+2013	Biomass CO2	Transport	154.5865969	kt
+2013	Biomass CO2	Heating/cooling	1935.3454237	kt
+2013	Biomass CO2	Other	2.675794	kt
+2013	N2O	Households, totals	290.5349997	t
+2013	N2O	Transport	132.954044	t
+2013	N2O	Heating/cooling	37.3159256	t
+2013	N2O	Other	120.2650301	t
+2013	SF6_NF3	Households, totals	4942.7560105	t
+2013	SF6_NF3	Transport	0.0	t
+2013	SF6_NF3	Heating/cooling	0.0	t
+2013	SF6_NF3	Other	4942.7560105	t
+2013	CH4	Households, totals	19377.2569288	t
+2013	CH4	Transport	711.1313401	t
+2013	CH4	Heating/cooling	9741.4926635	t
+2013	CH4	Other	8924.6329252	t
+2013	HFC	Households, totals	240954.0888163	t
+2013	HFC	Transport	0.0	t
+2013	HFC	Heating/cooling	0.0	t
+2013	HFC	Other	240954.0888163	t
+2013	PFC	Households, totals	0.0	t
+2013	PFC	Transport	0.0	t
+2013	PFC	Heating/cooling	0.0	t
+2013	PFC	Other	0.0	t
+2014	GHG	Households, totals	6.4092582400763005	Mt
+2014	GHG	Transport	4.947684309624001	Mt
+2014	GHG	Heating/cooling	0.5699767558265	Mt
+2014	GHG	Other	0.8915971746258	Mt
+2014	CO2	Households, totals	5594.2951167	kt
+2014	CO2	Transport	4894.2459975	kt
+2014	CO2	Heating/cooling	325.8484028	kt
+2014	CO2	Other	374.2007164	kt
+2014	Biomass CO2	Households, totals	1828.1770565	kt
+2014	Biomass CO2	Transport	154.0593722	kt
+2014	Biomass CO2	Heating/cooling	1671.5408148	kt
+2014	Biomass CO2	Other	2.5768695	kt
+2014	N2O	Households, totals	255.0908549	t
+2014	N2O	Transport	130.2371256	t
+2014	N2O	Heating/cooling	31.7020593	t
+2014	N2O	Other	93.15167	t
+2014	SF6_NF3	Households, totals	4893.3284605	t
+2014	SF6_NF3	Transport	0.0	t
+2014	SF6_NF3	Heating/cooling	0.0	t
+2014	SF6_NF3	Other	4893.3284605	t
+2014	CH4	Households, totals	17648.0862101	t
+2014	CH4	Transport	675.90978	t
+2014	CH4	Heating/cooling	8418.832404	t
+2014	CH4	Other	8553.3440261	t
+2014	HFC	Households, totals	248324.3044845	t
+2014	HFC	Transport	0.0	t
+2014	HFC	Heating/cooling	0.0	t
+2014	HFC	Other	248324.3044845	t
+2014	PFC	Households, totals	0.0	t
+2014	PFC	Transport	0.0	t
+2014	PFC	Heating/cooling	0.0	t
+2014	PFC	Other	0.0	t
+2015	GHG	Households, totals	6.407111177174599	Mt
+2015	GHG	Transport	4.929541812637499	Mt
+2015	GHG	Heating/cooling	0.5492113141919	Mt
+2015	GHG	Other	0.9283580503452	Mt
+2015	CO2	Households, totals	5549.9009639	kt
+2015	CO2	Transport	4876.3291008	kt
+2015	CO2	Heating/cooling	295.5195385	kt
+2015	CO2	Other	378.0523246	kt
+2015	Biomass CO2	Households, totals	1957.4467269	kt
+2015	Biomass CO2	Transport	172.341359	kt
+2015	Biomass CO2	Heating/cooling	1782.2290515	kt
+2015	Biomass CO2	Other	2.8763164	kt
+2015	N2O	Households, totals	253.8952101	t
+2015	N2O	Transport	131.7636027	t
+2015	N2O	Heating/cooling	33.4920887	t
+2015	N2O	Other	88.6395187	t
+2015	SF6_NF3	Households, totals	24989.199324	t
+2015	SF6_NF3	Transport	0.0	t
+2015	SF6_NF3	Heating/cooling	0.0	t
+2015	SF6_NF3	Other	24989.199324	t
+2015	CH4	Households, totals	18313.1140101	t
+2015	CH4	Transport	653.4056115	t
+2015	CH4	Heating/cooling	8743.4418638	t
+2015	CH4	Other	8916.2665348	t
+2015	HFC	Households, totals	252171.5909913	t
+2015	HFC	Transport	0.0	t
+2015	HFC	Heating/cooling	0.0	t
+2015	HFC	Other	252171.5909913	t
+2015	PFC	Households, totals	0.0	t
+2015	PFC	Transport	0.0	t
+2015	PFC	Heating/cooling	0.0	t
+2015	PFC	Other	0.0	t
+2016	GHG	Households, totals	6.273190952527499	Mt
+2016	GHG	Transport	4.7701093816495	Mt
+2016	GHG	Heating/cooling	0.5621322254585	Mt
+2016	GHG	Other	0.940949345393	Mt
+2016	CO2	Households, totals	5409.8513217	kt
+2016	CO2	Transport	4716.5179977	kt
+2016	CO2	Heating/cooling	319.9849884	kt
+2016	CO2	Other	373.3483356	kt
+2016	Biomass CO2	Households, totals	2130.3648906	kt
+2016	Biomass CO2	Transport	403.9639333	kt
+2016	Biomass CO2	Heating/cooling	1716.809327	kt
+2016	Biomass CO2	Other	9.5916303	kt
+2016	N2O	Households, totals	267.5997903	t
+2016	N2O	Transport	134.7113083	t
+2016	N2O	Heating/cooling	32.7089397	t
+2016	N2O	Other	100.1795422	t
+2016	SF6_NF3	Households, totals	24739.3073505	t
+2016	SF6_NF3	Transport	0.0	t
+2016	SF6_NF3	Heating/cooling	0.0	t
+2016	SF6_NF3	Other	24739.3073505	t
+2016	CH4	Households, totals	18387.5200561	t
+2016	CH4	Transport	639.0316875	t
+2016	CH4	Heating/cooling	8338.5488585	t
+2016	CH4	Other	9409.9395101	t
+2016	HFC	Households, totals	252835.8174767	t
+2016	HFC	Transport	0.0	t
+2016	HFC	Heating/cooling	0.0	t
+2016	HFC	Other	252835.8174767	t
+2016	PFC	Households, totals	0.0	t
+2016	PFC	Transport	0.0	t
+2016	PFC	Heating/cooling	0.0	t
+2016	PFC	Other	0.0	t
+2017	GHG	Households, totals	5.746854288538	Mt
+2017	GHG	Transport	4.3354359781421	Mt
+2017	GHG	Heating/cooling	0.5064246600674001	Mt
+2017	GHG	Other	0.9049936503285001	Mt
+2017	CO2	Households, totals	4915.2027418	kt
+2017	CO2	Transport	4282.2521091	kt
+2017	CO2	Heating/cooling	256.5591127	kt
+2017	CO2	Other	376.39152	kt
+2017	Biomass CO2	Households, totals	2458.8663439	kt
+2017	Biomass CO2	Transport	616.0632324	kt
+2017	Biomass CO2	Heating/cooling	1832.9853425	kt
+2017	Biomass CO2	Other	9.8177689	kt
+2017	N2O	Households, totals	250.2133593	t
+2017	N2O	Transport	135.8769857	t
+2017	N2O	Heating/cooling	34.3333302	t
+2017	N2O	Other	80.0030434	t
+2017	SF6_NF3	Households, totals	24491.914273	t
+2017	SF6_NF3	Transport	0.0	t
+2017	SF6_NF3	Heating/cooling	0.0	t
+2017	SF6_NF3	Other	24491.914273	t
+2017	CH4	Households, totals	17742.851959	t
+2017	CH4	Transport	613.4452797	t
+2017	CH4	Heating/cooling	8598.8291023	t
+2017	CH4	Other	8530.577577	t
+2017	HFC	Households, totals	244053.2373985	t
+2017	HFC	Transport	0.0	t
+2017	HFC	Heating/cooling	0.0	t
+2017	HFC	Other	244053.2373985	t
+2017	PFC	Households, totals	0.0	t
+2017	PFC	Transport	0.0	t
+2017	PFC	Heating/cooling	0.0	t
+2017	PFC	Other	0.0	t
+2018	GHG	Households, totals	5.6536198547377	Mt
+2018	GHG	Transport	4.3086683873466	Mt
+2018	GHG	Heating/cooling	0.4358183524476	Mt
+2018	GHG	Other	0.9091331149435	Mt
+2018	CO2	Households, totals	4830.4292278	kt
+2018	CO2	Transport	4256.6708088	kt
+2018	CO2	Heating/cooling	194.4730134	kt
+2018	CO2	Other	379.2854056	kt
+2018	Biomass CO2	Households, totals	2258.6064281	kt
+2018	Biomass CO2	Transport	455.4659998	kt
+2018	Biomass CO2	Heating/cooling	1791.7617654	kt
+2018	Biomass CO2	Other	11.3786629	kt
+2018	N2O	Households, totals	257.9661377	t
+2018	N2O	Transport	135.248555	t
+2018	N2O	Heating/cooling	33.080282	t
+2018	N2O	Other	89.6373007	t
+2018	SF6_NF3	Households, totals	24246.9951345	t
+2018	SF6_NF3	Transport	0.0	t
+2018	SF6_NF3	Heating/cooling	0.0	t
+2018	SF6_NF3	Other	24246.9951345	t
+2018	CH4	Households, totals	17765.366095	t
+2018	CH4	Transport	577.0254097	t
+2018	CH4	Heating/cooling	8306.3951542	t
+2018	CH4	Other	8881.9455311	t
+2018	HFC	Households, totals	233152.3546527	t
+2018	HFC	Transport	0.0	t
+2018	HFC	Heating/cooling	0.0	t
+2018	HFC	Other	233152.3546527	t
+2018	PFC	Households, totals	0.0	t
+2018	PFC	Transport	0.0	t
+2018	PFC	Heating/cooling	0.0	t
+2018	PFC	Other	0.0	t
+2019	GHG	Households, totals	5.059567095456499	Mt
+2019	GHG	Transport	3.9020436158106	Mt
+2019	GHG	Heating/cooling	0.2837518361641	Mt
+2019	GHG	Other	0.8737716434846	Mt
+2019	CO2	Households, totals	4295.9582283	kt
+2019	CO2	Transport	3851.8676839	kt
+2019	CO2	Heating/cooling	74.3113204	kt
+2019	CO2	Other	369.779224	kt
+2019	Biomass CO2	Households, totals	2217.577391	kt
+2019	Biomass CO2	Transport	564.0249075	kt
+2019	Biomass CO2	Heating/cooling	1637.5408737	kt
+2019	Biomass CO2	Other	16.0116097	kt
+2019	N2O	Households, totals	225.3533759	t
+2019	N2O	Transport	130.1791054	t
+2019	N2O	Heating/cooling	29.4307525	t
+2019	N2O	Other	65.743518	t
+2019	SF6_NF3	Households, totals	24004.5215	t
+2019	SF6_NF3	Transport	0.0	t
+2019	SF6_NF3	Heating/cooling	0.0	t
+2019	SF6_NF3	Other	24004.5215	t
+2019	CH4	Households, totals	16207.8559407	t
+2019	CH4	Transport	559.9453207	t
+2019	CH4	Heating/cooling	7201.4773697	t
+2019	CH4	Other	8446.4332504	t
+2019	HFC	Households, totals	226065.7347034	t
+2019	HFC	Transport	0.0	t
+2019	HFC	Heating/cooling	0.0	t
+2019	HFC	Other	226065.7347034	t
+2019	PFC	Households, totals	0.0	t
+2019	PFC	Transport	0.0	t
+2019	PFC	Heating/cooling	0.0	t
+2019	PFC	Other	0.0	t
+2020	GHG	Households, totals	5.1083347565072	Mt
+2020	GHG	Transport	3.9568595395766004	Mt
+2020	GHG	Heating/cooling	0.2810246365752	Mt
+2020	GHG	Other	0.8704505803554001	Mt
+2020	CO2	Households, totals	4330.6276644	kt
+2020	CO2	Transport	3907.7527841	kt
+2020	CO2	Heating/cooling	42.0566602	kt
+2020	CO2	Other	380.8182201	kt
+2020	Biomass CO2	Households, totals	2289.8823844	kt
+2020	Biomass CO2	Transport	488.8378085	kt
+2020	Biomass CO2	Heating/cooling	1785.1734247	kt
+2020	Biomass CO2	Other	15.8711511	kt
+2020	N2O	Households, totals	230.418296	t
+2020	N2O	Transport	129.378021	t
+2020	N2O	Heating/cooling	31.8089904	t
+2020	N2O	Other	69.2312846	t
+2020	SF6_NF3	Households, totals	23765.55	t
+2020	SF6_NF3	Transport	0.0	t
+2020	SF6_NF3	Heating/cooling	0.0	t
+2020	SF6_NF3	Other	23765.55	t
+2020	CH4	Households, totals	17299.9540054	t
+2020	CH4	Transport	529.3421397	t
+2020	CH4	Heating/cooling	8233.5212114	t
+2020	CH4	Other	8537.0906543	t
+2020	HFC	Households, totals	208481.981516	t
+2020	HFC	Transport	0.0	t
+2020	HFC	Heating/cooling	0.0	t
+2020	HFC	Other	208481.981516	t
+2020	PFC	Households, totals	0.0	t
+2020	PFC	Transport	0.0	t
+2020	PFC	Heating/cooling	0.0	t
+2020	PFC	Other	0.0	t
