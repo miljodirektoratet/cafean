@@ -68,6 +68,17 @@ ghg_source_reg_agg_pivot = ghg_source_reg_agg.unstack("region")
 ghg_source_reg_agg_pivot = ghg_source_reg_agg_pivot.droplevel(0, axis=1)
 ghg_source_reg_agg_pivot.to_csv(report_folder / "ghg_source_reg_agg_2020.tsv", sep="\t")
 
+emis_sources_totals = pd.read_csv(results_folder / "footprint_sources_totals_with_households_agg.tsv", sep="\t")
+
+year_to_extract = 2020
+src_tot_2020 = emis_sources_totals.loc[emis_sources_totals.year == year_to_extract, :].set_index(['year', 'emission', 'region', 'unit']).loc[year_to_extract, 'value'].unstack('region')
+src_tot_2020.to_csv(report_folder / "emis_sources_totals_with_households_2020.tsv", sep="\t")
+
+# Alternative method to save in excel in different sheets
+# with pd.ExcelWriter(report_folder / "emis_sources_totals_with_households_all_years.xlsx") as writer:
+#     for year in emis_sources_totals.year.unique():
+#         df = emis_sources_totals.loc[emis_sources_totals.year == year, :].set_index(['year', 'emission', 'region', 'unit']).loc[year, 'value'].unstack('region')
+#         df.to_excel(writer, sheet_name=str(year))
 
 all_sector_breakdown_agg = pd.read_csv(
     results_folder / "sector_accounts_agg.tsv", sep="\t"

@@ -9,22 +9,22 @@
 
 # %% [markdown]
 # Copyright (C) 2023  XIO Sustainability Analytics, Inc
-# 
+#
 # Written by
-# 
+#
 # - Richard Wood
 # - Konstantin Stadler
-# 
+#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
-# 
+#
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU Affero General Public License for more details.
-# 
+#
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
@@ -931,6 +931,8 @@ col_sector_accounts = {}
 col_grand_totals = {}
 col_sources = {}
 col_sources_tot = {}
+col_sources_tot_with_hhld = {}
+
 
 # %% [markdown]
 # Run the calculation for each year
@@ -1117,6 +1119,12 @@ for year in years:
         axis=0,
     ).squeeze()
 
+    src_tot_hhld = src_total.copy().unstack('region')
+    src_tot_hhld.loc[:, 'NO'] = (src_tot_hhld.loc[:, 'NO'] + 
+                                 total_hhld.loc['household_totals', 'value'])
+    src_total_with_hhld = src_tot_hhld.stack('region').reorder_levels(['region', 'emission']).sort_index()
+
+
     col_dom_io[year] = dom_io
     col_Q_imp_exio[year] = Q_imp_exio
     col_snac[year] = snac
@@ -1125,6 +1133,7 @@ for year in years:
     col_grand_totals[year] = total_accounts
     col_sources[year] = src_all
     col_sources_tot[year] = src_total
+    col_sources_tot_with_hhld[year] = src_total_with_hhld
 
 # %% [markdown]
 # ## Preparing and storing the results
@@ -1207,6 +1216,11 @@ all_sources = stack_and_unit(
 all_sources_tot = stack_and_unit(
     col_sources_tot, emis_units=emis_nor_unit, sector_order=sort_sector
 )
+
+all_sources_tot_with_households = stack_and_unit(
+    col_sources_tot_with_hhld, emis_units=emis_nor_unit, sector_order=sort_sector
+)
+
 all_totals = stack_and_unit(
     col_grand_totals, emis_units=emis_nor_unit, sector_order=sort_sector
 )
@@ -1223,6 +1237,7 @@ all_hhld.to_csv(output_path / "household_emissions.tsv", sep="\t")
 all_totals.to_csv(output_path / "total_accounts.tsv", sep="\t")
 all_sources.to_csv(output_path / "footprint_sources.tsv", sep="\t")
 all_sources_tot.to_csv(output_path / "footprint_sources_totals.tsv", sep="\t")
+all_sources_tot_with_households.to_csv(output_path / "footprint_sources_totals_with_households.tsv", sep="\t")
 
 # %%
 print(f"Done - results stored at {output_path}")
