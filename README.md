@@ -157,6 +157,15 @@ cumbersome and can be dropped with .drop('unit', axis=1).
     - value
     - unit
 
+- ./results/footprint_sources_totals.tsv : Total source of imports (all sectors aggregated, including household emissions for Norway)
+
+    - year
+    - emission
+    - region (region where the emissions occur/imported from)
+    - value
+    - unit
+
+
 - ./results/excel_report_format : Wide table format for excel import of the data underlying the figures of the report. 
 
 Besides these data files, the *aggregator* script also creates aggregated versions
