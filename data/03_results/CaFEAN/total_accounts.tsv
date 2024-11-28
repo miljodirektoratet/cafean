@@ -1,0 +1,721 @@
+year	component	emission	value	unit
+2012	domestic_footprint	GHG	23.544508018426406	Mt
+2012	domestic_footprint	Biomass CO2	1749.6848537092778	kt
+2012	domestic_footprint	CO2	18249.515081920083	kt
+2012	domestic_footprint	CH4	119173.70920585185	t
+2012	domestic_footprint	N2O	5326.165591172519	t
+2012	domestic_footprint	HFC	498242.0381336088	t CO2-eq
+2012	domestic_footprint	PFC	13885.40645214001	t CO2-eq
+2012	domestic_footprint	SF6_NF3	34567.7524960019	t CO2-eq
+2012	footprint_gross_exports	GHG	66.36980959221837	Mt
+2012	footprint_gross_exports	Biomass CO2	3163.887615585984	kt
+2012	footprint_gross_exports	CO2	54809.60859477393	kt
+2012	footprint_gross_exports	CH4	310075.7148571949	t
+2012	footprint_gross_exports	N2O	5542.420125015332	t
+2012	footprint_gross_exports	HFC	932387.3608136413	t CO2-eq
+2012	footprint_gross_exports	PFC	337734.52974609577	t CO2-eq
+2012	footprint_gross_exports	SF6_NF3	139217.75775418174	t CO2-eq
+2012	footprint_gross_imports	GHG	94.36361120997721	Mt
+2012	footprint_gross_imports	Biomass CO2	8178.287471940201	kt
+2012	footprint_gross_imports	CO2	68303.92805506279	kt
+2012	footprint_gross_imports	CH4	709988.636579389	t
+2012	footprint_gross_imports	N2O	12382.798683415771	t
+2012	footprint_gross_imports	HFC	2173580.9884873736	t CO2-eq
+2012	footprint_gross_imports	PFC	331219.8362103222	t CO2-eq
+2012	footprint_gross_imports	SF6_NF3	393758.85488861724	t CO2-eq
+2012	import_footprint	GHG	66.80946570384984	Mt
+2012	import_footprint	Biomass CO2	6374.837437444941	kt
+2012	import_footprint	CO2	49012.82751426878	kt
+2012	import_footprint	CH4	473874.5394764423	t
+2012	import_footprint	N2O	9851.808028127924	t
+2012	import_footprint	HFC	1488338.848462524	t CO2-eq
+2012	import_footprint	PFC	159855.62114928648	t CO2-eq
+2012	import_footprint	SF6_NF3	269227.4871749336	t CO2-eq
+2012	production_account	GHG	62.3601721045174	Mt
+2012	production_account	Biomass CO2	3110.1224348	kt
+2012	production_account	CO2	53768.0231359	kt
+2012	production_account	CH4	193135.3269601	t
+2012	production_account	N2O	8337.5950609	t
+2012	production_account	HFC	745387.2589224	t CO2-eq
+2012	production_account	PFC	180255.7211372	t CO2-eq
+2012	production_account	SF6_NF3	49254.1425365	t CO2-eq
+2012	total_footprint	GHG	90.35397372227625	Mt
+2012	total_footprint	Biomass CO2	8124.52229115422	kt
+2012	total_footprint	CO2	67262.34259618886	kt
+2012	total_footprint	CH4	593048.2486822942	t
+2012	total_footprint	N2O	15177.973619300443	t
+2012	total_footprint	HFC	1986580.8865961328	t CO2-eq
+2012	total_footprint	PFC	173741.02760142647	t CO2-eq
+2012	total_footprint	SF6_NF3	303795.2396709355	t CO2-eq
+2012	total_footprint_with_households	GHG	97.07404752078925	Mt
+2012	total_footprint_with_households	Biomass CO2	10709.531129954219	kt
+2012	total_footprint_with_households	CO2	73041.90017818885	kt
+2012	total_footprint_with_households	CH4	615325.2277500941	t
+2012	total_footprint_with_households	N2O	15471.062904900442	t
+2012	total_footprint_with_households	HFC	2220680.345685233	t CO2-eq
+2012	total_footprint_with_households	PFC	173741.02760142647	t CO2-eq
+2012	total_footprint_with_households	SF6_NF3	308787.92251243547	t CO2-eq
+2012	production_account_with_households	GHG	69.0802459030304	Mt
+2012	production_account_with_households	Biomass CO2	5695.1312736	kt
+2012	production_account_with_households	CO2	59547.580717900004	kt
+2012	production_account_with_households	CH4	215412.30602790002	t
+2012	production_account_with_households	N2O	8630.684346499998	t
+2012	production_account_with_households	HFC	979486.7180115	t CO2-eq
+2012	production_account_with_households	PFC	180255.7211372	t CO2-eq
+2012	production_account_with_households	SF6_NF3	54246.825378	t CO2-eq
+2012	household_totals	GHG	6.720073798513001	Mt
+2012	household_totals	Biomass CO2	2585.0088388	kt
+2012	household_totals	CO2	5779.557582	kt
+2012	household_totals	CH4	22276.9790678	t
+2012	household_totals	N2O	293.0892856	t
+2012	household_totals	HFC	234099.4590891	t CO2-eq
+2012	household_totals	PFC	0.0	t CO2-eq
+2012	household_totals	SF6_NF3	4992.6828415	t CO2-eq
+2013	domestic_footprint	GHG	25.12955625117941	Mt
+2013	domestic_footprint	Biomass CO2	1704.1883280354584	kt
+2013	domestic_footprint	CO2	19744.50226483941	kt
+2013	domestic_footprint	CH4	120284.63264829277	t
+2013	domestic_footprint	N2O	5317.456129022311	t
+2013	domestic_footprint	HFC	558759.0198997194	t CO2-eq
+2013	domestic_footprint	PFC	11785.425944289405	t CO2-eq
+2013	domestic_footprint	SF6_NF3	37413.95215287439	t CO2-eq
+2013	footprint_gross_exports	GHG	64.30689684512475	Mt
+2013	footprint_gross_exports	Biomass CO2	3012.007798082634	kt
+2013	footprint_gross_exports	CO2	53109.591734590496	kt
+2013	footprint_gross_exports	CH4	299438.76361403556	t
+2013	footprint_gross_exports	N2O	5219.526929573889	t
+2013	footprint_gross_exports	HFC	999562.4177738762	t CO2-eq
+2013	footprint_gross_exports	PFC	296974.3166996376	t CO2-eq
+2013	footprint_gross_exports	SF6_NF3	133308.35853064284	t CO2-eq
+2013	footprint_gross_imports	GHG	96.42504540639749	Mt
+2013	footprint_gross_imports	Biomass CO2	8371.5606962811	kt
+2013	footprint_gross_imports	CO2	69581.88024648237	kt
+2013	footprint_gross_imports	CH4	737034.2151145765	t
+2013	footprint_gross_imports	N2O	11549.907086561585	t
+2013	footprint_gross_imports	HFC	2433434.475529107	t CO2-eq
+2013	footprint_gross_imports	PFC	303689.39871532435	t CO2-eq
+2013	footprint_gross_imports	SF6_NF3	408357.8845236907	t CO2-eq
+2013	import_footprint	GHG	69.68046813307423	Mt
+2013	import_footprint	Biomass CO2	6568.841577163007	kt
+2013	import_footprint	CO2	50788.164073852444	kt
+2013	import_footprint	CH4	510078.4859930481	t
+2013	import_footprint	N2O	9285.916189465386	t
+2013	import_footprint	HFC	1701800.096035811	t CO2-eq
+2013	import_footprint	PFC	157707.1392170972	t CO2-eq
+2013	import_footprint	SF6_NF3	289831.42595517344	t CO2-eq
+2013	production_account	GHG	62.6918758229809	Mt
+2013	production_account	Biomass CO2	2913.477007	kt
+2013	production_account	CO2	54060.377826799995	kt
+2013	production_account	CH4	192767.6671408	t
+2013	production_account	N2O	8272.9921615	t
+2013	production_account	HFC	826687.0581803	t CO2-eq
+2013	production_account	PFC	162777.4831457	t CO2-eq
+2013	production_account	SF6_NF3	52195.852115	t CO2-eq
+2013	total_footprint	GHG	94.81002438425364	Mt
+2013	total_footprint	Biomass CO2	8273.029905198466	kt
+2013	total_footprint	CO2	70532.66633869185	kt
+2013	total_footprint	CH4	630363.1186413409	t
+2013	total_footprint	N2O	14603.372318487696	t
+2013	total_footprint	HFC	2260559.11593553	t CO2-eq
+2013	total_footprint	PFC	169492.5651613866	t CO2-eq
+2013	total_footprint	SF6_NF3	327245.3781080478	t CO2-eq
+2013	total_footprint_with_households	GHG	101.37087241290733	Mt
+2013	total_footprint_with_households	Biomass CO2	10365.637719898466	kt
+2013	total_footprint_with_households	CO2	76228.06255359185	kt
+2013	total_footprint_with_households	CH4	649740.3755701409	t
+2013	total_footprint_with_households	N2O	14893.907318187696	t
+2013	total_footprint_with_households	HFC	2501513.20475183	t CO2-eq
+2013	total_footprint_with_households	PFC	169492.5651613866	t CO2-eq
+2013	total_footprint_with_households	SF6_NF3	332188.13411854784	t CO2-eq
+2013	production_account_with_households	GHG	69.2527238516346	Mt
+2013	production_account_with_households	Biomass CO2	5006.0848217	kt
+2013	production_account_with_households	CO2	59755.774041699995	kt
+2013	production_account_with_households	CH4	212144.9240696	t
+2013	production_account_with_households	N2O	8563.5271612	t
+2013	production_account_with_households	HFC	1067641.1469966	t CO2-eq
+2013	production_account_with_households	PFC	162777.4831457	t CO2-eq
+2013	production_account_with_households	SF6_NF3	57138.6081255	t CO2-eq
+2013	household_totals	GHG	6.5608480286537	Mt
+2013	household_totals	Biomass CO2	2092.6078147	kt
+2013	household_totals	CO2	5695.3962149	kt
+2013	household_totals	CH4	19377.2569288	t
+2013	household_totals	N2O	290.5349997	t
+2013	household_totals	HFC	240954.0888163	t CO2-eq
+2013	household_totals	PFC	0.0	t CO2-eq
+2013	household_totals	SF6_NF3	4942.7560105	t CO2-eq
+2014	domestic_footprint	GHG	24.451747943626017	Mt
+2014	domestic_footprint	Biomass CO2	1226.9005787617648	kt
+2014	domestic_footprint	CO2	19200.736982880757	kt
+2014	domestic_footprint	CH4	117740.92465321577	t
+2014	domestic_footprint	N2O	5213.436368685356	t
+2014	domestic_footprint	HFC	528538.052982368	t CO2-eq
+2014	domestic_footprint	PFC	12492.132912812112	t CO2-eq
+2014	domestic_footprint	SF6_NF3	31674.246858417824	t CO2-eq
+2014	footprint_gross_exports	GHG	64.47828646256679	Mt
+2014	footprint_gross_exports	Biomass CO2	2391.3102389155592	kt
+2014	footprint_gross_exports	CO2	53743.9213261497	kt
+2014	footprint_gross_exports	CH4	277426.2485369527	t
+2014	footprint_gross_exports	N2O	5948.41061495299	t
+2014	footprint_gross_exports	HFC	989233.023229152	t CO2-eq
+2014	footprint_gross_exports	PFC	270649.2373946103	t CO2-eq
+2014	footprint_gross_exports	SF6_NF3	130219.1037960862	t CO2-eq
+2014	footprint_gross_imports	GHG	96.11009449578219	Mt
+2014	footprint_gross_imports	Biomass CO2	7799.330594119384	kt
+2014	footprint_gross_imports	CO2	69705.74090197838	kt
+2014	footprint_gross_imports	CH4	700964.948833947	t
+2014	footprint_gross_imports	N2O	13707.57084432289	t
+2014	footprint_gross_imports	HFC	2460696.11923904	t CO2-eq
+2014	footprint_gross_imports	PFC	277671.2205846647	t CO2-eq
+2014	footprint_gross_imports	SF6_NF3	406461.41288402263	t CO2-eq
+2014	import_footprint	GHG	69.32815007549038	Mt
+2014	import_footprint	Biomass CO2	6053.34346544206	kt
+2014	import_footprint	CO2	50336.4738727479	kt
+2014	import_footprint	CH4	497989.2627036785	t
+2014	import_footprint	N2O	10869.195817784544	t
+2014	import_footprint	HFC	1722215.2130993202	t CO2-eq
+2014	import_footprint	PFC	155413.32324074235	t CO2-eq
+2014	import_footprint	SF6_NF3	290011.4189865186	t CO2-eq
+2014	production_account	GHG	62.148089985901	Mt
+2014	production_account	Biomass CO2	1872.2236890000001	kt
+2014	production_account	CO2	53575.3912798	kt
+2014	production_account	CH4	192191.48705989998	t
+2014	production_account	N2O	8323.4719571	t
+2014	production_account	HFC	779290.1700718	t CO2-eq
+2014	production_account	PFC	160883.47296349998	t CO2-eq
+2014	production_account	SF6_NF3	45443.356757	t CO2-eq
+2014	total_footprint	GHG	93.7798980191164	Mt
+2014	total_footprint	Biomass CO2	7280.244044203825	kt
+2014	total_footprint	CO2	69537.21085562865	kt
+2014	total_footprint	CH4	615730.1873568943	t
+2014	total_footprint	N2O	16082.632186469902	t
+2014	total_footprint	HFC	2250753.266081688	t CO2-eq
+2014	total_footprint	PFC	167905.45615355446	t CO2-eq
+2014	total_footprint	SF6_NF3	321685.66584493645	t CO2-eq
+2014	total_footprint_with_households	GHG	100.1891562591927	Mt
+2014	total_footprint_with_households	Biomass CO2	9108.421100703825	kt
+2014	total_footprint_with_households	CO2	75131.50597232865	kt
+2014	total_footprint_with_households	CH4	633378.2735669942	t
+2014	total_footprint_with_households	N2O	16337.723041369902	t
+2014	total_footprint_with_households	HFC	2499077.570566188	t CO2-eq
+2014	total_footprint_with_households	PFC	167905.45615355446	t CO2-eq
+2014	total_footprint_with_households	SF6_NF3	326578.99430543644	t CO2-eq
+2014	production_account_with_households	GHG	68.55734822597731	Mt
+2014	production_account_with_households	Biomass CO2	3700.4007455	kt
+2014	production_account_with_households	CO2	59169.6863965	kt
+2014	production_account_with_households	CH4	209839.57327	t
+2014	production_account_with_households	N2O	8578.562812	t
+2014	production_account_with_households	HFC	1027614.4745563	t CO2-eq
+2014	production_account_with_households	PFC	160883.47296349998	t CO2-eq
+2014	production_account_with_households	SF6_NF3	50336.6852175	t CO2-eq
+2014	household_totals	GHG	6.409258240076301	Mt
+2014	household_totals	Biomass CO2	1828.1770565	kt
+2014	household_totals	CO2	5594.2951167	kt
+2014	household_totals	CH4	17648.0862101	t
+2014	household_totals	N2O	255.0908549	t
+2014	household_totals	HFC	248324.3044845	t CO2-eq
+2014	household_totals	PFC	0.0	t CO2-eq
+2014	household_totals	SF6_NF3	4893.3284605	t CO2-eq
+2015	domestic_footprint	GHG	25.950758479605497	Mt
+2015	domestic_footprint	Biomass CO2	1385.3432412741138	kt
+2015	domestic_footprint	CO2	20822.271203919703	kt
+2015	domestic_footprint	CH4	116581.98927003512	t
+2015	domestic_footprint	N2O	5170.948406764643	t
+2015	domestic_footprint	HFC	451920.6086966544	t CO2-eq
+2015	domestic_footprint	PFC	9847.31965970682	t CO2-eq
+2015	domestic_footprint	SF6_NF3	32122.319975823946	t CO2-eq
+2015	footprint_gross_exports	GHG	66.8795860887875	Mt
+2015	footprint_gross_exports	Biomass CO2	2557.57509602588	kt
+2015	footprint_gross_exports	CO2	56202.28701299721	kt
+2015	footprint_gross_exports	CH4	282498.2329079248	t
+2015	footprint_gross_exports	N2O	5927.326713648648	t
+2015	footprint_gross_exports	HFC	844097.7021159722	t CO2-eq
+2015	footprint_gross_exports	PFC	229827.2318044001	t CO2-eq
+2015	footprint_gross_exports	SF6_NF3	122682.04133115445	t CO2-eq
+2015	footprint_gross_imports	GHG	83.08686470839352	Mt
+2015	footprint_gross_imports	Biomass CO2	7727.745627981789	kt
+2015	footprint_gross_imports	CO2	58916.77277415277	kt
+2015	footprint_gross_imports	CH4	651440.7337487865	t
+2015	footprint_gross_imports	N2O	12316.09102460442	t
+2015	footprint_gross_imports	HFC	2055192.2058574138	t CO2-eq
+2015	footprint_gross_imports	PFC	237882.10361724385	t CO2-eq
+2015	footprint_gross_imports	SF6_NF3	372912.9582799029	t CO2-eq
+2015	import_footprint	GHG	59.39094591315159	Mt
+2015	import_footprint	Biomass CO2	5880.284726581796	kt
+2015	import_footprint	CO2	42500.28170983586	kt
+2015	import_footprint	CH4	445536.12440842664	t
+2015	import_footprint	N2O	9836.343107891133	t
+2015	import_footprint	HFC	1416402.3329775871	t CO2-eq
+2015	import_footprint	PFC	129835.15945313705	t CO2-eq
+2015	import_footprint	SF6_NF3	262784.3038579245	t CO2-eq
+2015	production_account	GHG	69.1344257731511	Mt
+2015	production_account	Biomass CO2	2095.4574359000003	kt
+2015	production_account	CO2	60608.0671526	kt
+2015	production_account	CH4	193175.6128376	t
+2015	production_account	N2O	8618.5272037	t
+2015	production_account	HFC	657228.4379328	t CO2-eq
+2015	production_account	PFC	131627.6073	t CO2-eq
+2015	production_account	SF6_NF3	44675.706885	t CO2-eq
+2015	total_footprint	GHG	85.3417043927571	Mt
+2015	total_footprint	Biomass CO2	7265.627967855909	kt
+2015	total_footprint	CO2	63322.55291375556	kt
+2015	total_footprint	CH4	562118.1136784618	t
+2015	total_footprint	N2O	15007.291514655773	t
+2015	total_footprint	HFC	1868322.9416742418	t CO2-eq
+2015	total_footprint	PFC	139682.47911284387	t CO2-eq
+2015	total_footprint	SF6_NF3	294906.6238337484	t CO2-eq
+2015	total_footprint_with_households	GHG	91.7488155699317	Mt
+2015	total_footprint_with_households	Biomass CO2	9223.07469475591	kt
+2015	total_footprint_with_households	CO2	68872.45387765556	kt
+2015	total_footprint_with_households	CH4	580431.2276885618	t
+2015	total_footprint_with_households	N2O	15261.186724755773	t
+2015	total_footprint_with_households	HFC	2120494.532665542	t CO2-eq
+2015	total_footprint_with_households	PFC	139682.47911284387	t CO2-eq
+2015	total_footprint_with_households	SF6_NF3	319895.8231577484	t CO2-eq
+2015	production_account_with_households	GHG	75.54153695032569	Mt
+2015	production_account_with_households	Biomass CO2	4052.9041628000004	kt
+2015	production_account_with_households	CO2	66157.96811650001	kt
+2015	production_account_with_households	CH4	211488.7268477	t
+2015	production_account_with_households	N2O	8872.422413799999	t
+2015	production_account_with_households	HFC	909400.0289241001	t CO2-eq
+2015	production_account_with_households	PFC	131627.6073	t CO2-eq
+2015	production_account_with_households	SF6_NF3	69664.90620900001	t CO2-eq
+2015	household_totals	GHG	6.4071111771746	Mt
+2015	household_totals	Biomass CO2	1957.4467269	kt
+2015	household_totals	CO2	5549.9009639	kt
+2015	household_totals	CH4	18313.1140101	t
+2015	household_totals	N2O	253.8952101	t
+2015	household_totals	HFC	252171.5909913	t CO2-eq
+2015	household_totals	PFC	0.0	t CO2-eq
+2015	household_totals	SF6_NF3	24989.199324	t CO2-eq
+2016	domestic_footprint	GHG	23.0935851948686	Mt
+2016	domestic_footprint	Biomass CO2	1627.347914853412	kt
+2016	domestic_footprint	CO2	18028.797295651304	kt
+2016	domestic_footprint	CH4	114082.12009317921	t
+2016	domestic_footprint	N2O	5062.325464388285	t
+2016	domestic_footprint	HFC	488931.4900946849	t CO2-eq
+2016	domestic_footprint	PFC	12607.265973613863	t CO2-eq
+2016	domestic_footprint	SF6_NF3	27433.532477086213	t CO2-eq
+2016	footprint_gross_exports	GHG	58.69069692492346	Mt
+2016	footprint_gross_exports	Biomass CO2	2529.034601677998	kt
+2016	footprint_gross_exports	CO2	48505.37202405214	kt
+2016	footprint_gross_exports	CH4	269471.9022789627	t
+2016	footprint_gross_exports	N2O	5507.588236324246	t
+2016	footprint_gross_exports	HFC	795819.1841198548	t CO2-eq
+2016	footprint_gross_exports	PFC	286203.96750148834	t CO2-eq
+2016	footprint_gross_exports	SF6_NF3	98577.60281311475	t CO2-eq
+2016	footprint_gross_imports	GHG	78.28837315197654	Mt
+2016	footprint_gross_imports	Biomass CO2	7704.511389991554	kt
+2016	footprint_gross_imports	CO2	55380.98336748656	kt
+2016	footprint_gross_imports	CH4	608304.8791744475	t
+2016	footprint_gross_imports	N2O	12235.489865215786	t
+2016	footprint_gross_imports	HFC	2029357.6095538212	t CO2-eq
+2016	footprint_gross_imports	PFC	274336.3032099044	t CO2-eq
+2016	footprint_gross_imports	SF6_NF3	328754.4405595544	t CO2-eq
+2016	import_footprint	GHG	56.87614872239157	Mt
+2016	import_footprint	Biomass CO2	5905.952157760144	kt
+2016	import_footprint	CO2	40836.89609428312	kt
+2016	import_footprint	CH4	414331.0503820055	t
+2016	import_footprint	N2O	9856.294923703255	t
+2016	import_footprint	HFC	1442081.548222281	t CO2-eq
+2016	import_footprint	PFC	142928.91990480202	t CO2-eq
+2016	import_footprint	SF6_NF3	241054.59450385338	t CO2-eq
+2016	production_account	GHG	60.3720576902071	Mt
+2016	production_account	Biomass CO2	2357.8232843	kt
+2016	production_account	CO2	51990.0820465	kt
+2016	production_account	CH4	189580.1935797	t
+2016	production_account	N2O	8190.7187592	t
+2016	production_account	HFC	697474.612883	t CO2-eq
+2016	production_account	PFC	167403.85017	t CO2-eq
+2016	production_account	SF6_NF3	38311.2892345	t CO2-eq
+2016	total_footprint	GHG	79.96973391726017	Mt
+2016	total_footprint	Biomass CO2	7533.300072613556	kt
+2016	total_footprint	CO2	58865.69338993442	kt
+2016	total_footprint	CH4	528413.1704751847	t
+2016	total_footprint	N2O	14918.62038809154	t
+2016	total_footprint	HFC	1931013.038316966	t CO2-eq
+2016	total_footprint	PFC	155536.18587841588	t CO2-eq
+2016	total_footprint	SF6_NF3	268488.1269809396	t CO2-eq
+2016	total_footprint_with_households	GHG	86.24292486978767	Mt
+2016	total_footprint_with_households	Biomass CO2	9663.664963213556	kt
+2016	total_footprint_with_households	CO2	64275.54471163442	kt
+2016	total_footprint_with_households	CH4	546800.6905312847	t
+2016	total_footprint_with_households	N2O	15186.22017839154	t
+2016	total_footprint_with_households	HFC	2183848.855793666	t CO2-eq
+2016	total_footprint_with_households	PFC	155536.18587841588	t CO2-eq
+2016	total_footprint_with_households	SF6_NF3	293227.4343314396	t CO2-eq
+2016	production_account_with_households	GHG	66.6452486427346	Mt
+2016	production_account_with_households	Biomass CO2	4488.1881749	kt
+2016	production_account_with_households	CO2	57399.9333682	kt
+2016	production_account_with_households	CH4	207967.7136358	t
+2016	production_account_with_households	N2O	8458.3185495	t
+2016	production_account_with_households	HFC	950310.4303597	t CO2-eq
+2016	production_account_with_households	PFC	167403.85017	t CO2-eq
+2016	production_account_with_households	SF6_NF3	63050.596585	t CO2-eq
+2016	household_totals	GHG	6.273190952527499	Mt
+2016	household_totals	Biomass CO2	2130.3648906	kt
+2016	household_totals	CO2	5409.8513217	kt
+2016	household_totals	CH4	18387.5200561	t
+2016	household_totals	N2O	267.5997903	t
+2016	household_totals	HFC	252835.8174767	t CO2-eq
+2016	household_totals	PFC	0.0	t CO2-eq
+2016	household_totals	SF6_NF3	24739.3073505	t CO2-eq
+2017	domestic_footprint	GHG	23.032043422521	Mt
+2017	domestic_footprint	Biomass CO2	1983.4940990058735	kt
+2017	domestic_footprint	CO2	17878.57610153236	kt
+2017	domestic_footprint	CH4	114646.32602667974	t
+2017	domestic_footprint	N2O	5207.042126197701	t
+2017	domestic_footprint	HFC	527823.082553814	t CO2-eq
+2017	domestic_footprint	PFC	10417.883147483073	t CO2-eq
+2017	domestic_footprint	SF6_NF3	25263.063097918213	t CO2-eq
+2017	footprint_gross_exports	GHG	59.737611353258984	Mt
+2017	footprint_gross_exports	Biomass CO2	2721.114020259597	kt
+2017	footprint_gross_exports	CO2	50922.20698573558	kt
+2017	footprint_gross_exports	CH4	226266.31680100565	t
+2017	footprint_gross_exports	N2O	4883.241467406527	t
+2017	footprint_gross_exports	HFC	867389.6691458258	t CO2-eq
+2017	footprint_gross_exports	PFC	225390.75142517017	t CO2-eq
+2017	footprint_gross_exports	SF6_NF3	93108.0876615073	t CO2-eq
+2017	footprint_gross_imports	GHG	72.81158060229131	Mt
+2017	footprint_gross_imports	Biomass CO2	8290.00002864645	kt
+2017	footprint_gross_imports	CO2	52625.906807126405	kt
+2017	footprint_gross_imports	CH4	522696.9330886179	t
+2017	footprint_gross_imports	N2O	10347.316929466137	t
+2017	footprint_gross_imports	HFC	2242499.0521685355	t CO2-eq
+2017	footprint_gross_imports	PFC	244739.49590424143	t CO2-eq
+2017	footprint_gross_imports	SF6_NF3	320882.13430230797	t CO2-eq
+2017	import_footprint	GHG	52.78516949772862	Mt
+2017	import_footprint	Biomass CO2	6440.664891580978	kt
+2017	import_footprint	CO2	38369.10539105845	kt
+2017	import_footprint	CH4	366384.05893253244	t
+2017	import_footprint	N2O	8372.77812756191	t
+2017	import_footprint	HFC	1575819.1067858958	t CO2-eq
+2017	import_footprint	PFC	126681.19430158836	t CO2-eq
+2017	import_footprint	SF6_NF3	236023.95166788247	t CO2-eq
+2017	production_account	GHG	62.7432436712173	Mt
+2017	production_account	Biomass CO2	2855.2729822	kt
+2017	production_account	CO2	54543.9816712	kt
+2017	production_account	CH4	184599.7686716	t
+2017	production_account	N2O	8115.7447917	t
+2017	production_account	HFC	728532.806317	t CO2-eq
+2017	production_account	PFC	117750.33297	t CO2-eq
+2017	production_account	SF6_NF3	33512.968125	t CO2-eq
+2017	total_footprint	GHG	75.81721292024962	Mt
+2017	total_footprint	Biomass CO2	8424.158990586851	kt
+2017	total_footprint	CO2	56247.68149259081	kt
+2017	total_footprint	CH4	481030.3849592122	t
+2017	total_footprint	N2O	13579.820253759612	t
+2017	total_footprint	HFC	2103642.18933971	t CO2-eq
+2017	total_footprint	PFC	137099.07744907142	t CO2-eq
+2017	total_footprint	SF6_NF3	261287.01476580068	t CO2-eq
+2017	total_footprint_with_households	GHG	81.56406720878762	Mt
+2017	total_footprint_with_households	Biomass CO2	10883.02533448685	kt
+2017	total_footprint_with_households	CO2	61162.88423439081	kt
+2017	total_footprint_with_households	CH4	498773.2369182122	t
+2017	total_footprint_with_households	N2O	13830.033613059612	t
+2017	total_footprint_with_households	HFC	2347695.42673821	t CO2-eq
+2017	total_footprint_with_households	PFC	137099.07744907142	t CO2-eq
+2017	total_footprint_with_households	SF6_NF3	285778.92903880065	t CO2-eq
+2017	production_account_with_households	GHG	68.4900979597553	Mt
+2017	production_account_with_households	Biomass CO2	5314.1393261	kt
+2017	production_account_with_households	CO2	59459.184413	kt
+2017	production_account_with_households	CH4	202342.6206306	t
+2017	production_account_with_households	N2O	8365.958151	t
+2017	production_account_with_households	HFC	972586.0437154999	t CO2-eq
+2017	production_account_with_households	PFC	117750.33297	t CO2-eq
+2017	production_account_with_households	SF6_NF3	58004.882398	t CO2-eq
+2017	household_totals	GHG	5.746854288538	Mt
+2017	household_totals	Biomass CO2	2458.8663439	kt
+2017	household_totals	CO2	4915.2027418	kt
+2017	household_totals	CH4	17742.851959	t
+2017	household_totals	N2O	250.2133593	t
+2017	household_totals	HFC	244053.2373985	t CO2-eq
+2017	household_totals	PFC	0.0	t CO2-eq
+2017	household_totals	SF6_NF3	24491.914273	t CO2-eq
+2018	domestic_footprint	GHG	23.679016222677255	Mt
+2018	domestic_footprint	Biomass CO2	1831.6129021283884	kt
+2018	domestic_footprint	CO2	18533.59001640693	kt
+2018	domestic_footprint	CH4	114195.20945869069	t
+2018	domestic_footprint	N2O	5267.344143548434	t
+2018	domestic_footprint	HFC	518074.9715270943	t CO2-eq
+2018	domestic_footprint	PFC	11995.701304802169	t CO2-eq
+2018	domestic_footprint	SF6_NF3	22043.470554753323	t CO2-eq
+2018	footprint_gross_exports	GHG	61.96107278444041	Mt
+2018	footprint_gross_exports	Biomass CO2	2860.879441343377	kt
+2018	footprint_gross_exports	CO2	52817.65917990574	kt
+2018	footprint_gross_exports	CH4	239271.99662599084	t
+2018	footprint_gross_exports	N2O	4797.511355602231	t
+2018	footprint_gross_exports	HFC	855678.2431728741	t CO2-eq
+2018	footprint_gross_exports	PFC	228100.71647514543	t CO2-eq
+2018	footprint_gross_exports	SF6_NF3	88678.23012432821	t CO2-eq
+2018	footprint_gross_imports	GHG	72.32039633753725	Mt
+2018	footprint_gross_imports	Biomass CO2	9073.061964396653	kt
+2018	footprint_gross_imports	CO2	51543.41908289771	kt
+2018	footprint_gross_imports	CH4	544189.534849973	t
+2018	footprint_gross_imports	N2O	10185.09008439298	t
+2018	footprint_gross_imports	HFC	2292723.415127829	t CO2-eq
+2018	footprint_gross_imports	PFC	243528.98199069907	t CO2-eq
+2018	footprint_gross_imports	SF6_NF3	304369.00935762585	t CO2-eq
+2018	import_footprint	GHG	52.42498812149859	Mt
+2018	import_footprint	Biomass CO2	7140.455110724889	kt
+2018	import_footprint	CO2	37825.86854638505	kt
+2018	import_footprint	CH4	372592.8021420915	t
+2018	import_footprint	N2O	8225.49901244232	t
+2018	import_footprint	HFC	1625281.1027364612	t CO2-eq
+2018	import_footprint	PFC	136578.20256075147	t CO2-eq
+2018	import_footprint	SF6_NF3	224904.57154054436	t CO2-eq
+2018	production_account	GHG	65.744680791079	Mt
+2018	production_account	Biomass CO2	2759.8854898	kt
+2018	production_account	CO2	57633.69865979999	kt
+2018	production_account	CH4	181870.47337680002	t
+2018	production_account	N2O	8105.264427200001	t
+2018	production_account	HFC	706310.9023086	t CO2-eq
+2018	production_account	PFC	133145.63835	t CO2-eq
+2018	production_account	SF6_NF3	31257.262862	t CO2-eq
+2018	total_footprint	GHG	76.10400434417585	Mt
+2018	total_footprint	Biomass CO2	8972.068012853277	kt
+2018	total_footprint	CO2	56359.45856279198	kt
+2018	total_footprint	CH4	486788.0116007822	t
+2018	total_footprint	N2O	13492.843155990753	t
+2018	total_footprint	HFC	2143356.0742635555	t CO2-eq
+2018	total_footprint	PFC	148573.9038655536	t CO2-eq
+2018	total_footprint	SF6_NF3	246948.04209529771	t CO2-eq
+2018	total_footprint_with_households	GHG	81.75762419891355	Mt
+2018	total_footprint_with_households	Biomass CO2	11230.674440953277	kt
+2018	total_footprint_with_households	CO2	61189.88779059198	kt
+2018	total_footprint_with_households	CH4	504553.3776957822	t
+2018	total_footprint_with_households	N2O	13750.809293690752	t
+2018	total_footprint_with_households	HFC	2376508.4289162555	t CO2-eq
+2018	total_footprint_with_households	PFC	148573.9038655536	t CO2-eq
+2018	total_footprint_with_households	SF6_NF3	271195.0372297977	t CO2-eq
+2018	production_account_with_households	GHG	71.3983006458167	Mt
+2018	production_account_with_households	Biomass CO2	5018.4919179	kt
+2018	production_account_with_households	CO2	62464.12788759999	kt
+2018	production_account_with_households	CH4	199635.83947180002	t
+2018	production_account_with_households	N2O	8363.2305649	t
+2018	production_account_with_households	HFC	939463.2569613	t CO2-eq
+2018	production_account_with_households	PFC	133145.63835	t CO2-eq
+2018	production_account_with_households	SF6_NF3	55504.257996500004	t CO2-eq
+2018	household_totals	GHG	5.653619854737701	Mt
+2018	household_totals	Biomass CO2	2258.6064281	kt
+2018	household_totals	CO2	4830.4292278	kt
+2018	household_totals	CH4	17765.366095	t
+2018	household_totals	N2O	257.9661377	t
+2018	household_totals	HFC	233152.3546527	t CO2-eq
+2018	household_totals	PFC	0.0	t CO2-eq
+2018	household_totals	SF6_NF3	24246.9951345	t CO2-eq
+2019	domestic_footprint	GHG	23.799643395479297	Mt
+2019	domestic_footprint	Biomass CO2	2171.4583644194076	kt
+2019	domestic_footprint	CO2	18817.31701913191	kt
+2019	domestic_footprint	CH4	109572.63854988296	t
+2019	domestic_footprint	N2O	5201.447634660496	t
+2019	domestic_footprint	HFC	488219.0142741326	t CO2-eq
+2019	domestic_footprint	PFC	14006.05458283372	t CO2-eq
+2019	domestic_footprint	SF6_NF3	33683.804908663325	t CO2-eq
+2019	footprint_gross_exports	GHG	65.20591465392884	Mt
+2019	footprint_gross_exports	Biomass CO2	2899.416626302281	kt
+2019	footprint_gross_exports	CO2	54835.7060032709	kt
+2019	footprint_gross_exports	CH4	278940.8436790125	t
+2019	footprint_gross_exports	N2O	5147.157601190363	t
+2019	footprint_gross_exports	HFC	813907.767400856	t CO2-eq
+2019	footprint_gross_exports	PFC	272709.27378452534	t CO2-eq
+2019	footprint_gross_exports	SF6_NF3	109251.22214476179	t CO2-eq
+2019	footprint_gross_imports	GHG	77.72658954522684	Mt
+2019	footprint_gross_imports	Biomass CO2	8939.585387092293	kt
+2019	footprint_gross_imports	CO2	55003.36772628778	kt
+2019	footprint_gross_imports	CH4	613886.1044686474	t
+2019	footprint_gross_imports	N2O	10685.795846520608	t
+2019	footprint_gross_imports	HFC	2106179.8084520833	t CO2-eq
+2019	footprint_gross_imports	PFC	267970.55309188686	t CO2-eq
+2019	footprint_gross_imports	SF6_NF3	328524.63294496277	t CO2-eq
+2019	import_footprint	GHG	54.699144214150415	Mt
+2019	import_footprint	Biomass CO2	6970.778021370603	kt
+2019	import_footprint	CO2	39353.16472558499	kt
+2019	import_footprint	CH4	401638.583407452	t
+2019	import_footprint	N2O	8593.572085769749	t
+2019	import_footprint	HFC	1452484.9316871944	t CO2-eq
+2019	import_footprint	PFC	138666.3601645278	t CO2-eq
+2019	import_footprint	SF6_NF3	231651.25857603762	t CO2-eq
+2019	production_account	GHG	65.9781127183317	Mt
+2019	production_account	Biomass CO2	3102.0676249999997	kt
+2019	production_account	CO2	58002.820021700005	kt
+2019	production_account	CH4	176265.9611677	t
+2019	production_account	N2O	8256.381475099999	t
+2019	production_account	HFC	648431.9049101	t CO2-eq
+2019	production_account	PFC	157411.13544	t CO2-eq
+2019	production_account	SF6_NF3	46061.6526845	t CO2-eq
+2019	total_footprint	GHG	78.4987876096297	Mt
+2019	total_footprint	Biomass CO2	9142.23638579001	kt
+2019	total_footprint	CO2	58170.4817447169	kt
+2019	total_footprint	CH4	511211.22195733496	t
+2019	total_footprint	N2O	13795.019720430244	t
+2019	total_footprint	HFC	1940703.945961327	t CO2-eq
+2019	total_footprint	PFC	152672.41474736153	t CO2-eq
+2019	total_footprint	SF6_NF3	265335.063484701	t CO2-eq
+2019	total_footprint_with_households	GHG	83.5583547050862	Mt
+2019	total_footprint_with_households	Biomass CO2	11359.813776790012	kt
+2019	total_footprint_with_households	CO2	62466.439973016895	kt
+2019	total_footprint_with_households	CH4	527419.077898035	t
+2019	total_footprint_with_households	N2O	14020.373096330244	t
+2019	total_footprint_with_households	HFC	2166769.680664727	t CO2-eq
+2019	total_footprint_with_households	PFC	152672.41474736153	t CO2-eq
+2019	total_footprint_with_households	SF6_NF3	289339.58498470095	t CO2-eq
+2019	production_account_with_households	GHG	71.0376798137882	Mt
+2019	production_account_with_households	Biomass CO2	5319.6450159999995	kt
+2019	production_account_with_households	CO2	62298.77825	kt
+2019	production_account_with_households	CH4	192473.8171084	t
+2019	production_account_with_households	N2O	8481.734851	t
+2019	production_account_with_households	HFC	874497.6396135001	t CO2-eq
+2019	production_account_with_households	PFC	157411.13544	t CO2-eq
+2019	production_account_with_households	SF6_NF3	70066.17418449999	t CO2-eq
+2019	household_totals	GHG	5.0595670954565	Mt
+2019	household_totals	Biomass CO2	2217.577391	kt
+2019	household_totals	CO2	4295.9582283	kt
+2019	household_totals	CH4	16207.8559407	t
+2019	household_totals	N2O	225.3533759	t
+2019	household_totals	HFC	226065.7347034	t CO2-eq
+2019	household_totals	PFC	0.0	t CO2-eq
+2019	household_totals	SF6_NF3	24004.5215	t CO2-eq
+2020	domestic_footprint	GHG	22.311284345089284	Mt
+2020	domestic_footprint	Biomass CO2	1883.6021221653189	kt
+2020	domestic_footprint	CO2	17275.51138128691	kt
+2020	domestic_footprint	CH4	112541.60117615033	t
+2020	domestic_footprint	N2O	5269.358348927923	t
+2020	domestic_footprint	HFC	432040.15298696107	t CO2-eq
+2020	domestic_footprint	PFC	18712.026387426748	t CO2-eq
+2020	domestic_footprint	SF6_NF3	37475.98902987491	t CO2-eq
+2020	footprint_gross_exports	GHG	54.55299208434497	Mt
+2020	footprint_gross_exports	Biomass CO2	2890.1897205649225	kt
+2020	footprint_gross_exports	CO2	46483.400148216184	kt
+2020	footprint_gross_exports	CH4	211631.57845507504	t
+2020	footprint_gross_exports	N2O	4320.723537934915	t
+2020	footprint_gross_exports	HFC	696435.2755896652	t CO2-eq
+2020	footprint_gross_exports	PFC	215014.7125930609	t CO2-eq
+2020	footprint_gross_exports	SF6_NF3	87466.01365120846	t CO2-eq
+2020	footprint_gross_imports	GHG	62.62273835557099	Mt
+2020	footprint_gross_imports	Biomass CO2	7811.888154202145	kt
+2020	footprint_gross_imports	CO2	44608.976568303915	kt
+2020	footprint_gross_imports	CH4	470995.07829493145	t
+2020	footprint_gross_imports	N2O	8642.355388400585	t
+2020	footprint_gross_imports	HFC	2014790.7877751524	t CO2-eq
+2020	footprint_gross_imports	PFC	226374.37981867048	t CO2-eq
+2020	footprint_gross_imports	SF6_NF3	294510.24948899803	t CO2-eq
+2020	import_footprint	GHG	45.90429347417623	Mt
+2020	import_footprint	Biomass CO2	5906.612395271904	kt
+2020	import_footprint	CO2	33252.23130140081	kt
+2020	import_footprint	CH4	321696.34777250607	t
+2020	import_footprint	N2O	7008.852439337748	t
+2020	import_footprint	HFC	1427629.8303646261	t CO2-eq
+2020	import_footprint	PFC	137801.27604818277	t CO2-eq
+2020	import_footprint	SF6_NF3	221787.43230791466	t CO2-eq
+2020	production_account	GHG	60.1458315480395	Mt
+2020	production_account	Biomass CO2	2868.5160838	kt
+2020	production_account	CO2	52402.1662626	kt
+2020	production_account	CH4	174874.44910879998	t
+2020	production_account	N2O	7956.5789378	t
+2020	production_account	HFC	541314.4711661	t CO2-eq
+2020	production_account	PFC	145153.63521	t CO2-eq
+2020	production_account	SF6_NF3	52219.1855	t CO2-eq
+2020	total_footprint	GHG	68.2155778192655	Mt
+2020	total_footprint	Biomass CO2	7790.214517437223	kt
+2020	total_footprint	CO2	50527.74268268773	kt
+2020	total_footprint	CH4	434237.9489486564	t
+2020	total_footprint	N2O	12278.210788265671	t
+2020	total_footprint	HFC	1859669.9833515873	t CO2-eq
+2020	total_footprint	PFC	156513.3024356095	t CO2-eq
+2020	total_footprint	SF6_NF3	259263.4213377896	t CO2-eq
+2020	total_footprint_with_households	GHG	73.32391257577271	Mt
+2020	total_footprint_with_households	Biomass CO2	10080.096901837223	kt
+2020	total_footprint_with_households	CO2	54858.37034708773	kt
+2020	total_footprint_with_households	CH4	451537.9029540564	t
+2020	total_footprint_with_households	N2O	12508.62908426567	t
+2020	total_footprint_with_households	HFC	2068151.9648675872	t CO2-eq
+2020	total_footprint_with_households	PFC	156513.3024356095	t CO2-eq
+2020	total_footprint_with_households	SF6_NF3	283028.9713377896	t CO2-eq
+2020	production_account_with_households	GHG	65.2541663045467	Mt
+2020	production_account_with_households	Biomass CO2	5158.3984682	kt
+2020	production_account_with_households	CO2	56732.793927000006	kt
+2020	production_account_with_households	CH4	192174.4031142	t
+2020	production_account_with_households	N2O	8186.9972338	t
+2020	production_account_with_households	HFC	749796.4526821	t CO2-eq
+2020	production_account_with_households	PFC	145153.63521	t CO2-eq
+2020	production_account_with_households	SF6_NF3	75984.7355	t CO2-eq
+2020	household_totals	GHG	5.108334756507199	Mt
+2020	household_totals	Biomass CO2	2289.8823844	kt
+2020	household_totals	CO2	4330.6276644	kt
+2020	household_totals	CH4	17299.9540054	t
+2020	household_totals	N2O	230.418296	t
+2020	household_totals	HFC	208481.981516	t CO2-eq
+2020	household_totals	PFC	0.0	t CO2-eq
+2020	household_totals	SF6_NF3	23765.55	t CO2-eq
+2021	domestic_footprint	GHG	19.605576972365654	Mt
+2021	domestic_footprint	Biomass CO2	1903.2994634545357	kt
+2021	domestic_footprint	CO2	14739.375798127045	kt
+2021	domestic_footprint	CH4	108302.9807673921	t
+2021	domestic_footprint	N2O	5234.988590171731	t
+2021	domestic_footprint	HFC	358129.84308518574	t CO2-eq
+2021	domestic_footprint	PFC	63070.84768495624	t CO2-eq
+2021	domestic_footprint	SF6_NF3	25245.045585978383	t CO2-eq
+2021	footprint_gross_exports	GHG	59.01066555386033	Mt
+2021	footprint_gross_exports	Biomass CO2	3650.9328728973505	kt
+2021	footprint_gross_exports	CO2	50629.309121428174	kt
+2021	footprint_gross_exports	CH4	214199.40796178667	t
+2021	footprint_gross_exports	N2O	4498.772992012513	t
+2021	footprint_gross_exports	HFC	844125.8655648346	t CO2-eq
+2021	footprint_gross_exports	PFC	237693.94732640116	t CO2-eq
+2021	footprint_gross_exports	SF6_NF3	109778.35372756074	t CO2-eq
+2021	footprint_gross_imports	GHG	71.22075386699402	Mt
+2021	footprint_gross_imports	Biomass CO2	10828.305000713317	kt
+2021	footprint_gross_imports	CO2	52393.02466606187	kt
+2021	footprint_gross_imports	CH4	479738.4645519769	t
+2021	footprint_gross_imports	N2O	9150.557059899827	t
+2021	footprint_gross_imports	HFC	2378122.6796548325	t CO2-eq
+2021	footprint_gross_imports	PFC	229719.23793738024	t CO2-eq
+2021	footprint_gross_imports	SF6_NF3	362312.65501111624	t CO2-eq
+2021	import_footprint	GHG	52.247577577084435	Mt
+2021	import_footprint	Biomass CO2	8306.750482061432	kt
+2021	import_footprint	CO2	38978.155371206645	kt
+2021	import_footprint	CH4	330854.5108596982	t
+2021	import_footprint	N2O	7381.481082015583	t
+2021	import_footprint	HFC	1631441.8118235124	t CO2-eq
+2021	import_footprint	PFC	151717.18080602278	t CO2-eq
+2021	import_footprint	SF6_NF3	266244.42244257714	t CO2-eq
+2021	production_account	GHG	59.6430662363164	Mt
+2021	production_account	Biomass CO2	3032.6778177	kt
+2021	production_account	CO2	51953.8156247	kt
+2021	production_account	CH4	173618.43503690002	t
+2021	production_account	N2O	7964.6856043	t
+2021	production_account	HFC	455574.84081870003	t CO2-eq
+2021	production_account	PFC	222762.73788	t CO2-eq
+2021	production_account	SF6_NF3	38955.166745	t CO2-eq
+2021	total_footprint	GHG	71.8531545494501	Mt
+2021	total_footprint	Biomass CO2	10210.049945515968	kt
+2021	total_footprint	CO2	53717.53116933369	kt
+2021	total_footprint	CH4	439157.49162709026	t
+2021	total_footprint	N2O	12616.469672187313	t
+2021	total_footprint	HFC	1989571.6549086983	t CO2-eq
+2021	total_footprint	PFC	214788.02849097902	t CO2-eq
+2021	total_footprint	SF6_NF3	291489.4680285555	t CO2-eq
+2021	total_footprint_with_households	GHG	76.92206224198989	Mt
+2021	total_footprint_with_households	Biomass CO2	12715.169508415967	kt
+2021	total_footprint_with_households	CO2	58041.33834693369	kt
+2021	total_footprint_with_households	CH4	456568.63726379024	t
+2021	total_footprint_with_households	N2O	12847.465186387313	t
+2021	total_footprint_with_households	HFC	2162419.4456378985	t CO2-eq
+2021	total_footprint_with_households	PFC	214788.02849097902	t CO2-eq
+2021	total_footprint_with_households	SF6_NF3	315016.3031485555	t CO2-eq
+2021	production_account_with_households	GHG	64.7119739288562	Mt
+2021	production_account_with_households	Biomass CO2	5537.7973806	kt
+2021	production_account_with_households	CO2	56277.6228023	kt
+2021	production_account_with_households	CH4	191029.58067360002	t
+2021	production_account_with_households	N2O	8195.6811185	t
+2021	production_account_with_households	HFC	628422.6315479	t CO2-eq
+2021	production_account_with_households	PFC	222762.73788	t CO2-eq
+2021	production_account_with_households	SF6_NF3	62482.001865	t CO2-eq
+2021	household_totals	GHG	5.0689076925398	Mt
+2021	household_totals	Biomass CO2	2505.1195629	kt
+2021	household_totals	CO2	4323.8071776	kt
+2021	household_totals	CH4	17411.1456367	t
+2021	household_totals	N2O	230.9955142	t
+2021	household_totals	HFC	172847.7907292	t CO2-eq
+2021	household_totals	PFC	0.0	t CO2-eq
+2021	household_totals	SF6_NF3	23526.83512	t CO2-eq

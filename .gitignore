@@ -1,5 +1,8 @@
 # exiobase data folder - this needs to be populated manually
-exiobase/
+data/01_raw/exiobase/core/*
+data/01_raw/exiobase/extension/*
+!data/01_raw/exiobase/core/placeholder.txt
+!data/01_raw/exiobase/extension/placeholder.txt
 
 # excel/libre office artifacts
 .~lock*

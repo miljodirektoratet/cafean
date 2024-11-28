@@ -1,0 +1,7 @@
+Download ixi.zip and unpack it in this folder. 
+Structure of folder should be: 
+    /exiobase
+        /core
+            /ixi
+                /IOT_[year]_ixi
+                    / ...

@@ -1,0 +1,50 @@
+src	agg	name
+AT	Europe	Austria
+BE	Europe	Belgium
+BG	Europe	Bulgaria
+CY	Europe	Cyprus
+CZ	Europe	Czechia
+DE	Europe	Germany
+DK	Europe	Denmark
+EE	Europe	Estonia
+ES	Europe	Spain
+FI	Europe	Finland
+FR	Europe	France
+GR	Europe	Greece
+HR	Europe	Croatia
+HU	Europe	Hungary
+IE	Europe	Ireland
+IT	Europe	Italy
+LT	Europe	Lithuania
+LU	Europe	Luxembourg
+LV	Europe	Latvia
+MT	Europe	Malta
+NL	Europe	Netherlands
+PL	Europe	Poland
+PT	Europe	Portugal
+RO	Europe	Romania
+SE	Europe	Sweden
+SI	Europe	Slovenia
+SK	Europe	Slovakia
+GB	Europe	United Kingdom
+US	Advanced	United States
+JP	Advanced	Japan
+CN	Developing	China
+CA	Advanced	Canada
+KR	Advanced	South Korea
+BR	Developing	Brazil
+IN	Developing	India
+MX	Developing	Mexico
+RU	Developing	Russia
+AU	Advanced	Australia
+CH	Europe	Switzerland
+TR	Developing	Türkiye
+TW	Advanced	Taiwan
+NO	Norway	Norway
+ID	Developing	Indonesia
+ZA	Developing	South Africa
+WA	Developing	RoW Asia
+WL	Developing	RoW America
+WE	Europe	RoW Europe
+WF	Developing	RoW Africa
+WM	Developing	RoW Middle East

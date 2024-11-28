@@ -4,16 +4,17 @@ channels:
   - anaconda
 dependencies: 
   # core
-  - python >= 3.10
-  - pandas >= 2.1
+  - python = 3.10
+  - pandas = 2.1
   - numpy
-  - pymrio >= 0.5.3
-  - streamlit >= 1.28.0
-  - openpyxl >= 3.0.10
+  - pymrio = 0.5.3
+  - streamlit = 1.28.0
+  - openpyxl = 3.0.10
   - jupyterlab=3.*
   - ipython
   - jupytext
   - ipykernel
+  - seaborn
   # development libraries
   - black >= 22.8
   - pynvim

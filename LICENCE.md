@@ -1,11 +1,12 @@
 # CaFEAN Source Code Licence
 
-Copyright (C) <2023>  <XIO Sustainability Analytics, Inc>
+Copyright (C) <2024>  <XIO Sustainability Analytics, Inc>
 
 Written by
 
 - Richard Wood
 - Konstantin Stadler
+- Kajwan Rasul
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by

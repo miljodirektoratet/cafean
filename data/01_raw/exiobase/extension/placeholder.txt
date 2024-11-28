@@ -1,0 +1,12 @@
+Download air_emissions_fuel_combustion.zip and air_emissions_non_fuel_combustion.zip, and unpack both of the files in this folder.
+Structure of folder should be 
+    /exiobase
+        /extensions
+            /air_emissions_fuel_combustion
+                /ixi
+                    /IOT_[year]_ixi
+                        / ...
+            /air_emissions_non_fuel_combustion
+                /ixi
+                    /IOT_[year]_ixi
+                        / ...
