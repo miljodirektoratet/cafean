@@ -1,4 +1,4 @@
-# This is not up to date!
+
 # CaFEAN: Code for the coupled footprint/simplified-SNAC model
 This repository contains the Python code for the CaFEAN model, linking the Multi-Regional Input-Output (MRIO) model EXIOBASE with the official Norwegian (SSB) IO and greenhouse gas emissions data in order to produce carbon footprint results for Norway.
 
@@ -44,9 +44,9 @@ and the following folders:
 
 The `src/` folder contains a config file, 3 function files, and 9 scripts. All script files can be run in interactive mode in Python.
 
-The purpose of each file is:
+The purpose of each file:
 
-- `./config.py`: This file contains various configurations options that are used in the scripts. User needs to ensure to keep this up to date.
+- `./config.py`: Contains various configurations options that are used in the scripts. User needs to ensure to keep this up to date.
 
 <br>
 
@@ -56,15 +56,15 @@ The purpose of each file is:
 
 <br>
 
-- `./01_prepare_exiobase.py`: This script prepares EXIOBASE 3.9 data for the use in the SNAC coupling
-- `./02_prepare_norwegian_IO.py`: This script prepares the Norwegian IO data for general use.
-- `./03_prepare_deflators.py`: This script prepares the defaltors for deomstic production and imports from two SSB datasets.
-- `./04_prepare_emissions.py`: This script prepares the Norwegian territorial emissions dataset as reported by SSB for the SNAC coupling.
-- `./05_SNAC.py`: This script calcualted the Norwegian consumption-based emisions accounts based on the hybrid-SNAC approach.
-- `./06_cafean_plots.py`: This script all figures and tables shown in the original CaFEAN report.
-- `./07_detailed_sectoral_analysis.py`: This script makes the results files used in the detailed sector analysis.
-- `./08_prepare_household_surveys.py`: This script disaggregates the household footprint calculated by the SNAC model using SSB's consumer expenditure surveys.
-- `./09_household_survey_analysis.py`: This script makes the tables and figures used for the household footprint analysis.
+- `./01_prepare_exiobase.py`: Prepares EXIOBASE 3.9 data for the use in the SNAC coupling
+- `./02_prepare_norwegian_IO.py`: Prepares the Norwegian IO data for general use.
+- `./03_prepare_deflators.py`: Prepares the defaltors for deomstic production and imports from two SSB datasets.
+- `./04_prepare_emissions.py`: Prepares the Norwegian territorial emissions dataset as reported by SSB for the SNAC coupling.
+- `./05_SNAC.py`: Calculates the Norwegian consumption-based emisions accounts based on the hybrid-SNAC approach.
+- `./06_cafean_plots.py`: Plots all figures and tables shown in the original CaFEAN report.
+- `./07_detailed_sectoral_analysis.py`: Makes the results files used for the sectoral analysis.
+- `./08_prepare_household_surveys.py`: Disaggregates the household footprint calculated by the SNAC model using SSB's consumer expenditure surveys.
+- `./09_household_survey_analysis.py`: Makes the tables and figures used for the household footprint analysis.
 
 <br>
 
@@ -280,7 +280,7 @@ The `sectoral_analysis.xlsx` file contains the following columns:
 - <b>Percentage change in source sector: x (current)</b>: Percentage change in total output of source sector from year 2012 to year.
 - <b>Percentage change in source sector: x (constant)</b>: Percentage change in total output of source sector from year 2012 to year.
 
-The `sectoral_analysis_agg.xlsx` has the same structure but with final sector aggregated. 
+The `sectoral_analysis_agg.xlsx` has the same structure but with final sector aggregated in the 17-sector classification provided in `data/00_auxiliary/classifications/sector_agg_spec.tsv`. 
 
 <br>
 
@@ -307,7 +307,7 @@ The code is setup to run with version 3.9.4 of EXIOBASE.
 
 Before running the scripts, one needs to: 
 
-- [Build the Anaconda environment (first time)](#setting-up-the-environment) - only necessary the first time 
+- [Build the Anaconda environment (first time)](#setting-up-the-environment) - Only necessary the first time 
 - Activate the environment:
 
         conda activate cafean
@@ -316,9 +316,8 @@ Before running the scripts, one needs to:
 
 - Run the 9 scripts in sequence as indicated by their prefix. 
 
-Then one can run the 9 scripts in the sequence indicated by their prefix.
 
-It is **not necessary to run the full sequence**. See [section use cases below](#use-cases) for some standard work flows you might encounter.
+It is **not necessary to run the full sequence** for all types of analysis. See [section use cases below](#use-cases) for some standard work flows you might encounter.
 
 <br>
 
@@ -417,7 +416,7 @@ In case the structure of the data changed, the `04_prepare_emissions.py` script 
 
 #### Updating the GHG characterisation factors 
 
-The characterisation factor from GHG emissions to GHG totals are based on the GWP100 factors of the IPCC Fifth Assessment Report.
+The characterisation factor from GHG emissions to GHG totals are based on the GWP100 factors of the IPCC Fifth Assessment Report (GWP100 IPCC AR5).
 These are given in the file `./data/00_auxiliary/other/emis_conv_char.xlsx`. The files contains a sheet "meta" given some information on the structure.
 In short, the characterisation factors are given in the sheet "nor_char" and can be updated there.
 
@@ -437,9 +436,9 @@ Running the `01_prepare_exiobase.py` can take some time and use a decent amount 
 
 #### Running for a new EXIOBASE version
 
-The code is setup to run with version 3.9.4 of EXIOBASE which at the time of writing is not publically available on Zenodo.
+The code is setup to run with the prerelease version 3.9.4 of EXIOBASE which at the time of writing is not publically available on Zenodo.
 Hence the data needs to downloaded manually for now. 
-Once new versions of EXIOBASE data is available on Zenodo, one needs to update the `download_exiobase` and `exiobase_doi` variables in `src/config.py`, and then run:
+Once new versions of EXIOBASE data is available on Zenodo, one needs to configure the `download_exiobase` and `exiobase_doi` variables in `src/config.py`, adjust the `01_prepare_exiobase.py` script, and then run:
 
 * `01_prepare_exiobase.py` for new intermediate EXIOBASE datasets. 
 * `05_SNAC.py` for new datasets.
