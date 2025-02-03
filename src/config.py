@@ -20,9 +20,8 @@ exiobase_raw_path = (
 )
 
 # Whether or not to download EXIOBASE
-# ! Should be False until 3.9 is available on Zenodo.
-download_exiobase = False
-exiobase_doi = "10.5281/zenodo.5589597"
+download_exiobase = True
+exiobase_doi = "10.5281/zenodo.14614930"
 
 
 ## General input parameters

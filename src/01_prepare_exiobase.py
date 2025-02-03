@@ -87,6 +87,7 @@ exio_raw_path: Path = (
 exio_core_path: Path = (
     config.exiobase_raw_path
     / "core"
+    / "ixi"
 )
 
 exio_non_combustion_ghg_path: Path = (
@@ -127,7 +128,7 @@ if config.download_exiobase:
             storage_folder=exio_core_path,
             doi=config.exiobase_doi,
             system="ixi",
-            years=exio_core_path,
+            years=[year],
             overwrite_existing=False,
         )
 
@@ -167,7 +168,7 @@ yearly_diag_fd = dict()
 for year in config.years_io:
     print(f"Processing EXIOBASE files for year {year}")
 
-    exio_files = exio_core_path.glob(f"ixi/IOT_{year}_ixi*")
+    exio_files = exio_core_path.glob(f"IOT_{year}_ixi.zip")
 
     if not exio_files:
         print(f"Warning: No EXIOBASE files found for year {year}.")
@@ -178,109 +179,8 @@ for year in config.years_io:
 
     exio3 = pymrio.parse_exiobase3(exio_file)
 
-    exio3.reset_extensions()
-
-    # Read combustion and non-combustion emissions accounts
-    F_combustion = (
-        pd.read_csv(
-            (
-                exio_combustion_ghg_path
-                / "ixi"
-                / f"IOT_{year}_ixi"
-                / "F.tsv"
-            ),
-            sep="\t",
-            index_col=[0],
-            header=[0, 1]
-        )
-        .rename_axis(exio3.satellite.F.columns.names, axis=1)
-        .rename_axis([exio3.satellite.F.index.name], axis=0)
-    )
-    F_Y_combustion = (
-        pd.read_csv(
-            (
-                exio_combustion_ghg_path
-                / "ixi"
-                / f"IOT_{year}_ixi"
-                / "F.tsv"
-            ),
-            sep="\t",
-            index_col=[0],
-            header=[0, 1]
-        )
-        .rename_axis(exio3.satellite.F_Y.columns.names, axis=1)
-        .rename_axis([exio3.satellite.F_Y.index.name], axis=0)
-    )
-    F_combustion_unit = pd.DataFrame(
-        index=F_combustion.index,
-        columns=["unit"],
-        data="kg"
-    )
-
-    # Read combustion and non-combustion emissions accounts
-    F_non_combustion = (
-        pd.read_csv(
-            (
-                exio_non_combustion_ghg_path
-                / "ixi"
-                / f"IOT_{year}_ixi"
-                / "F.txt"
-            ),
-            sep="\t",
-            index_col=[0],
-            header=[0, 1]
-        )
-        .rename_axis(exio3.satellite.F.columns.names, axis=1)
-        .rename_axis([exio3.satellite.F.index.name], axis=0)
-    )
-    F_Y_non_combustion = (
-        pd.read_csv(
-            (
-                exio_non_combustion_ghg_path
-                / "ixi"
-                / f"IOT_{year}_ixi"
-                / "F.txt"
-            ),
-            sep="\t",
-            index_col=[0],
-            header=[0, 1]
-        )
-        .rename_axis(exio3.satellite.F_Y.columns.names, axis=1)
-        .rename_axis([exio3.satellite.F_Y.index.name], axis=0)
-    )
-    F_non_combustion_unit = pd.DataFrame(
-        index=F_non_combustion.index,
-        columns=["unit"],
-        data="kg"
-    )
-
-
-    exio3.satellite = pymrio.concate_extension(
-        exio3.satellite,
-        pymrio.Extension(
-            F=F_combustion,
-            F_Y=F_Y_combustion,
-            unit=F_combustion_unit,
-            name="non_combustion"
-        ),
-        pymrio.Extension(
-            F=F_non_combustion,
-            F_Y=F_Y_non_combustion,
-            unit=F_non_combustion_unit,
-            name="non_combustion"
-        ),
-        name=exio3.satellite.name,
-    )
-
-    # HACK: on some systems the concatenate extension sets the index name
-    # to "indicator". This happens when the index name of both are not the same.
-    # They are the same, so probably some undocumented behaviour in some pandas/python
-    # version. To resolve this, we just set the index name again.
-    for df in exio3.satellite.get_DataFrame(data=True, with_population=False):
-        df.index.name = "stressor"
-
     # Make a satellite account mirroring the Norwegian emission data
-    emis_like_nor = exio3.satellite.characterize(
+    emis_like_nor = exio3.air_emissions.characterize(
         factors=exio_stressor_to_nor.reset_index(),
         characterized_name_column="ghg_type",
         characterization_factors_column="factor",

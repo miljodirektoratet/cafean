@@ -96,18 +96,9 @@ The `data/` folder contains all the data required to run the code. It is structu
 │   │   ├───core
 │   │   │   └───ixi
 │   │   │       ├───IOT_1995_ixi
-│   │   │       │   ├───impacts
-│   │   │       │   └───satellite
+│   │   │       │   ├───air_emissions
+│   │   │       │   └─── ...
 │   │   │       └─── ...
-│   │   └───extension
-│   │       ├───air_emissions_fuel_combustion
-│   │       │   └───ixi
-│   │       │       ├───IOT_1995_ixi
-│   │       │       └───...
-│   │       └───air_emissions_non_fuel_combustion
-│   │           └───ixi
-│   │               ├───IOT_1995_ixi
-│   │               └───...
 │   └───ssb                             # SSB data as downloaded from their website.
 │       ├───deflators
 │       │       07337.xlsx
@@ -436,9 +427,8 @@ Running the `01_prepare_exiobase.py` can take some time and use a decent amount 
 
 #### Running for a new EXIOBASE version
 
-The code is setup to run with the prerelease version 3.9.4 of EXIOBASE which at the time of writing is not publically available on Zenodo.
-Hence the data needs to downloaded manually for now. 
-Once new versions of EXIOBASE data is available on Zenodo, one needs to configure the `download_exiobase` and `exiobase_doi` variables in `src/config.py`, adjust the `01_prepare_exiobase.py` script, and then run:
+The code is setup to run with EXIOBASE version 3.9.4 which is automatically downloaded from Zenodo.
+Once new versions of EXIOBASE data is available on Zenodo, one needs to configure the `download_exiobase` and `exiobase_doi` variables in `src/config.py`, potentially adjust the `01_prepare_exiobase.py` script, and then run:
 
 * `01_prepare_exiobase.py` for new intermediate EXIOBASE datasets. 
 * `05_SNAC.py` for new datasets.
